@@ -1,5 +1,3 @@
-# Mitarea2
-Tarea2
 <!DOCTYPE html>
 <html lang="en">
 <head>
